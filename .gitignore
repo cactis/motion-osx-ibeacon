@@ -1,0 +1,14 @@
+.repl_history
+tags
+nbproject
+.redcar
+#*#
+*~
+*.sw[po]
+.eprj
+.idea
+.DS_Store
+vendor/
+build/
+
+libs
