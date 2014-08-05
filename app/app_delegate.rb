@@ -14,8 +14,8 @@ class AppDelegate
     @status_item.setHighlightMode(true)
     @status_item.setTitle(@app_name)
 
-    @status_menu.addItem createMenuItem("開啟", 'iBeaconStart')
-    @status_menu.addItem createMenuItem("關閉", 'iBeaconStop')
+    @status_menu.addItem createMenuItem("Start", 'iBeaconStart')
+    @status_menu.addItem createMenuItem("Stop", 'iBeaconStop')
     # @status_menu.addItem createMenuItem("Custom Action", 'pressAction')
     @status_menu.addItem createMenuItem("About #{@app_name}", 'orderFrontStandardAboutPanel:')
     @status_menu.addItem createMenuItem("Quit", 'terminate:')
