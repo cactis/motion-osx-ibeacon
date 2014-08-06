@@ -1,0 +1,863 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Applic",
+				"ApplicationSection"
+			],
+			[
+				"Chil",
+				"ChildAD"
+			],
+			[
+				"Par",
+				"ParentAD"
+			],
+			[
+				"app_navi",
+				"app_navigation_base"
+			],
+			[
+				"inner",
+				"inner_html"
+			],
+			[
+				"hott",
+				"hottest_recommended"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pakc rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"dir",
+			"ls",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/iBeacon/app/_modules/i_beacon_section.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/iBeacon/ibeacon.sublime-project",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/iBeacon/app/_modules/audio_section.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/iBeacon/app/_modules/_application_table.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/iBeacon/app/_modules/location.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/iBeacon/app/_modules/camera.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/iBeacon/app/sections/monitors/index_cell.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/iBeacon/app/_modules/_application_section.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/iBeacon/app/_modules/uilabel.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/iBeacon/app/_modules/cluster_map.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/iBeacon/app/styles/sidebar.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/iBeacon/vendor/Pods/Local Podspecs/SVPullToRefresh.podspec",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/iBeacon/app/sections/monitors/form.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/iBeacon/vendor/Pods/NanoStore/Classes/Advanced/NSFNanoResult.m",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/iBeacon/app/_modules/_application_screen.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/iBeacon/vendor/Pods/Headers/SDWebImage/SDImageCache.h",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/.bundle/config",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Podfile.lock",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/Pods.xcconfig",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/Pods-dummy.m",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/screens/parents.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/Pods-resources.sh",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/Pods-NanoStore-dummy.m",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/Pods-environment.h",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-RESideMenu.build/Objects-normal/armv7/RECommonFunctions.d",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-SDWebImage.build/Objects-normal/armv7/NSData+ImageContentType.dia",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFNetworkActivityIndicatorManager.d",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/Pods-acknowledgements.markdown",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/Local Podspecs/SVPullToRefresh.podspec",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/styles/sidebar.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/config/base.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/sections/childs/item.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/_modules/helper.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/models/event.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/screens/mail_to.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/sections/sidebar/action.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/screens/sidebar.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/Pods-SDWebImage-dummy.m",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/BuildHeaders/SDWebImage/SDWebImageCompat.h",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/sections/childs/table.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/sections/gender/item.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/_modules/_application_table.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-NanoStore.build/Objects-normal/armv7/NSFNanoPredicate.d",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-RESideMenu.build/Pods-RESideMenu-all-target-headers.hmap",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/Pods-AFNetworking-prefix.pch",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/app_delegate.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/sections/parents/table.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/styles/child.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/styles/parents.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/modules/helper.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/sections/child_form.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/_modules/_application_form.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/_modules/web_section.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/_modules/web_screen.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/modules/_application_section.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/_modules/_application_screen.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/sections/childs/pages.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/sections/childs/pages_item.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/styles/blood_type.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/build/Pods.build/Release-iphoneos/Pods.build/Pods-all-target-headers.hmap",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/TOWebViewController/TOWebViewController/TOWebViewController.h",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/TOWebViewController/TOWebViewController/TOWebViewController.m",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/BuildHeaders/TOWebViewController/TOWebViewController.h",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/SVPullToRefresh/Demo/SVPullToRefreshDemo/SVPullToRefreshDemo-Info.plist",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/sections/blood_type/item.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-TOWebViewController.build/Objects-normal/i386/UIImage+TOWebViewControllerIcons.d",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/TOWebViewController/TOWebViewController/TOActivitySafari.m",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/BuildHeaders/TOWebViewController/TOActivityChrome.h",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/testflight_launcher.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-SVPullToRefresh.build/Pods-SVPullToRefresh-own-target-headers.hmap",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/_modules/audio_section.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/BuildHeaders/MBAlertView/AlertViewUI.h",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/_modules/cameras_list.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/BuildHeaders/SDWebImage/UIView+WebCacheOperation.h",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/_modules/weather.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/models/parent.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/screens/edit_child.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/ALScrollViewPaging/ALScrollViewPaging.m",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/ALScrollViewPaging/ALScrollViewPaging.h",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/Pods-AFNetworking.LinkFileList",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/_modules/location.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/ALScrollViewPaging/build-iPhoneSimulator/ALScrollViewPaging.pch",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/screens/childs.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/ALScrollViewPaging/ALScrollViewPaging.h",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/models/gender.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/_modules/_application_section.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/environment.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/Gemfile",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/Rakefile",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/sections/events/index_cell.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/modules/_application_form.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/sections/_application_section.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/sections/_application_form.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/styles/events.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/screens/blood_type_list.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/sections/sidebar/table.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/SDWebImage/SDWebImage/UIView+WebCacheOperation.h",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-RESideMenu.build/Objects-normal/armv7/UIViewController+RESideMenu.d",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/BuildHeaders/SDWebImage/SDWebImageDecoder.h",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/_modules/awesome.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/styles/defaults/base.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/styles/defaults/form.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/screens/new_child.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/screens/gender_list.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/screens/_application.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/screens/birthday.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/styles/home.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/models/child.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/NanoStore/Classes/Public/NSFNanoBag.h",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/BuildHeaders/MBAlertView/MBAlertAbstract.h",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/Manifest.lock",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/_modules/styles/mixins/cell.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/.ruby-version",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/.repl_history",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/.gitignore",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/build/iPhoneOS-7.0-Development/寶貝一把罩.app/_CodeSignature/CodeResources",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/BuildHeaders/SDWebImage/SDImageCache.h",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/sections/childs/background.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/app/sections/events/form.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/.motion-bundler.rb",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/debugger_cmds",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/resources/fontawesome.plist",
+		"/Volumes/Macintosh HD 2/ctslin/Copy/BTSync/_myself/app/kids-passport/vendor/Pods/BuildHeaders/SVPullToRefresh/SVPullToRefresh.h",
+		"/Users/ctslin/BTSync/_myself/www/xuelele.3.1.1/.project",
+		"/Users/ctslin/BTSync/_myself/www/xuelele.3.1.1/config/environments/development.rb",
+		"/Users/ctslin/BTSync/_myself/www/xuelele.3.1.1/Gemfile.lock"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"view(:title)",
+			"proximity",
+			"element(:title).options[:text]",
+			"NSLog __method__",
+			"NSLog ",
+			"NSLog.ap",
+			"ap ",
+			"@locationManager",
+			"__method__",
+			"beacons",
+			"__method__",
+			"puts ",
+			"ap __method__",
+			"def ",
+			"element",
+			"setTitle",
+			"view",
+			"text =",
+			"text",
+			".set_text",
+			"view",
+			"delta_to_span",
+			"LocationSection",
+			"color",
+			"left",
+			"swipe",
+			"def set_default_swipe_back",
+			"set_default_swipe_back",
+			"swipe",
+			"MPCellWithSection",
+			"add_sliding_action_button",
+			"add_sliding_delete_button",
+			"'",
+			"default_photo_image",
+			"swip",
+			"delegate",
+			"navigat",
+			"init",
+			"ini",
+			"init",
+			"title",
+			"webView",
+			"@my_web_view",
+			"url",
+			"web_view",
+			"title",
+			"open_screen",
+			"webview",
+			"kind",
+			"def self.all",
+			"childs",
+			"backgroundImage",
+			"img",
+			"view.",
+			"180",
+			"redColor",
+			"screen.main",
+			"childs",
+			"cell",
+			"childs",
+			"event_image",
+			"ap ",
+			"end",
+			"else",
+			"ap ",
+			"event",
+			"child",
+			"open_ev",
+			"direction",
+			"after_field_render:",
+			":height",
+			":hieght",
+			"set_birthday",
+			"view(\"birthday:button\")",
+			"set_birthday",
+			"on_set_birthday",
+			"set_birthday",
+			"on_after_render_for_height",
+			"set_default_avatar",
+			"after_field_render",
+			"set_default_avatar",
+			"table_view",
+			"after_render:",
+			"image",
+			"not found",
+			":app_navigation_background",
+			"add_sliding_action_button",
+			":app_navigation_background",
+			"UINavigationBar.alloc.init",
+			"UINavigationBar.appearance",
+			"UIBarButtonItem.appearance",
+			"app_navigation",
+			"awesome",
+			"color",
+			"app_nav",
+			":app_nav",
+			":app_nav.uicolor",
+			":app_nav",
+			":app_nav.",
+			":app_nav.uicolor",
+			", color: :app_nav.uicolor",
+			":app_nav.",
+			":app_nav",
+			"app_nav_bg",
+			":app_nav.",
+			":app_nav",
+			"app_nav",
+			"nav_bg",
+			"setup_navigation_styles",
+			"simulator?",
+			"device",
+			"MFMailComposeViewController",
+			"after_field_render",
+			"avatar_raw",
+			"icons",
+			"response.object.class",
+			"set_default_avatar",
+			"RESOURCE_PATH",
+			"simulator",
+			"set_default_avatar",
+			"after_field_render",
+			"after_render:",
+			"font",
+			".uiimage",
+			"avatar_raw",
+			"select",
+			"avatar",
+			"image"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "motion-osx-ibeacon.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"fin",
+				"app/finder_view_controller.rb"
+			],
+			[
+				"ib",
+				"app/_modules/i_beacon_section.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"locasec",
+				"app/_modules/location_section.rb"
+			],
+			[
+				"rake",
+				"Rakefile"
+			],
+			[
+				"stymon",
+				"app/styles/monitors.rb"
+			],
+			[
+				"app",
+				"app/app_delegate.rb"
+			],
+			[
+				"scrmonit",
+				"app/screens/monitors.rb"
+			],
+			[
+				"mail",
+				"app/screens/mail_to.rb"
+			],
+			[
+				"confbase",
+				"app/config/base.rb"
+			],
+			[
+				"",
+				"app/sections/childs/item.rb"
+			],
+			[
+				"helper",
+				"app/_modules/helper.rb"
+			],
+			[
+				"parentc",
+				"app/sections/parents/cell.rb"
+			],
+			[
+				"stylechild",
+				"app/styles/child.rb"
+			],
+			[
+				"conbase",
+				"app/config/base.rb"
+			],
+			[
+				"chiltable",
+				"app/sections/childs/table.rb"
+			],
+			[
+				"sideba",
+				"app/sections/sidebar/action.rb"
+			],
+			[
+				"parentcell",
+				"app/sections/parents/cell.rb"
+			],
+			[
+				"apreitem",
+				"app/sections/gender/item.rb"
+			],
+			[
+				"appform",
+				"app/_modules/_application_form.rb"
+			],
+			[
+				"childform",
+				"app/sections/child_form.rb"
+			],
+			[
+				"help",
+				"app/_modules/helper.rb"
+			],
+			[
+				"appsection",
+				"app/_modules/_application_section.rb"
+			],
+			[
+				"stypare",
+				"app/styles/parents.rb"
+			],
+			[
+				"patabl",
+				"app/sections/parents/table.rb"
+			],
+			[
+				"tow",
+				"vendor/Pods/BuildHeaders/TOWebViewController/TOWebViewController.h"
+			],
+			[
+				"parenttable",
+				"app/sections/parents/table.rb"
+			],
+			[
+				"parents",
+				"app/screens/parents.rb"
+			],
+			[
+				"event.rb",
+				"app/models/event.rb"
+			],
+			[
+				"alscr",
+				"vendor/ALScrollViewPaging/ALScrollViewPaging.h"
+			],
+			[
+				"childs",
+				"app/screens/childs.rb"
+			],
+			[
+				"chilfor",
+				"app/sections/child_form.rb"
+			],
+			[
+				"chii",
+				"app/sections/childs/item.rb"
+			],
+			[
+				"stych",
+				"app/styles/child.rb"
+			],
+			[
+				"child",
+				"app/sections/childs/table.rb"
+			],
+			[
+				"chilform",
+				"app/sections/child_form.rb"
+			],
+			[
+				"childite",
+				"app/sections/childs/item.rb"
+			],
+			[
+				"sidebatab",
+				"app/sections/sidebar/action.rb"
+			],
+			[
+				"sidecell",
+				"app/sections/events/index_cell.rb"
+			],
+			[
+				"stysideba",
+				"app/styles/sidebar.rb"
+			],
+			[
+				"awes",
+				"app/_modules/awesome.rb"
+			],
+			[
+				"con",
+				".bundle/config"
+			],
+			[
+				"ap",
+				"app/app_delegate.rb"
+			],
+			[
+				"child.rb",
+				"app/models/child.rb"
+			],
+			[
+				"childtable",
+				"app/sections/childs/table.rb"
+			],
+			[
+				".rub",
+				".ruby-version"
+			],
+			[
+				"gr",
+				"app/models/gender.rb"
+			],
+			[
+				"editchi",
+				"app/screens/edit_child.rb"
+			],
+			[
+				"childtab",
+				"app/sections/childs/table.rb"
+			],
+			[
+				"scrchild",
+				"app/screens/childs.rb"
+			],
+			[
+				"chform",
+				"app/sections/child_form.rb"
+			],
+			[
+				"stychild",
+				"app/styles/child.rb"
+			],
+			[
+				"datab",
+				"config/database.yml"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"idtab",
+				"vendor/assets/javascripts/idtabs/jquery.idTabs.min.js"
+			],
+			[
+				"idtabs",
+				"vendor/assets/javascripts/idtabs/jquery.idTabs.min.js"
+			],
+			[
+				"fluid",
+				"app/views/layouts/fluid.html.haml"
+			],
+			[
+				"spechelp",
+				"spec/spec_helper.rb"
+			],
+			[
+				"databas",
+				"config/database.yml"
+			],
+			[
+				"_main",
+				"app/views/layouts/_main_nav.haml"
+			],
+			[
+				"flui",
+				"app/views/layouts/fluid.html.haml"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"dbtree",
+				"db/migrate/20100712034642_add_type_to_treeings.rb"
+			],
+			[
+				"dbtreeing",
+				"db/migrate/20100702021742_create_treeings.rb"
+			],
+			[
+				"treeing",
+				"app/models/treeing.rb"
+			],
+			[
+				"ptr",
+				"app/models/ptreeing.rb"
+			],
+			[
+				"tree.rb",
+				"app/models/tree.rb"
+			],
+			[
+				"categor",
+				"app/models/category.rb"
+			],
+			[
+				"production",
+				"config/environments/production.rb"
+			],
+			[
+				"develo",
+				"config/environments/development.rb"
+			],
+			[
+				"configapp",
+				"config/application.rb"
+			],
+			[
+				"configapplic",
+				"config/application.rb"
+			],
+			[
+				"dbinter",
+				"db/migrate/20100519022434_create_interactions.rb"
+			],
+			[
+				"toggle",
+				"app/models/toggle.rb"
+			],
+			[
+				"asset.rb",
+				"app/models/asset.rb"
+			],
+			[
+				"attachm",
+				"app/models/attachment.rb"
+			],
+			[
+				"image",
+				"app/models/image.rb"
+			],
+			[
+				"attachment.rb",
+				"app/models/attachment.rb"
+			],
+			[
+				"image.rb",
+				"app/models/image.rb"
+			],
+			[
+				"postcon",
+				"app/controllers/posts_controller.rb"
+			],
+			[
+				"post",
+				"app/models/post.rb"
+			],
+			[
+				"dbasset",
+				"db/migrate/20101006035739_create_assets.rb"
+			],
+			[
+				"asset",
+				"app/models/asset.rb"
+			],
+			[
+				"user.rb",
+				"app/models/user.rb"
+			],
+			[
+				"chiform",
+				"app/sections/samples/child_form.rb"
+			],
+			[
+				"templindex",
+				"app/views/templates/index.html"
+			],
+			[
+				"appliless",
+				"app/assets/stylesheets/application.css.less"
+			],
+			[
+				"welindeless",
+				"app/assets/stylesheets/welcome_index.css.less"
+			],
+			[
+				"indeless",
+				"app/assets/stylesheets/searches_index.css.less"
+			],
+			[
+				"toolboxpho",
+				"app/assets/javascripts/books/events/toolbox_photo.js.coffee"
+			],
+			[
+				"indexhtmlhaml",
+				"app/views/assets/index.html.haml"
+			],
+			[
+				"toolboxphoto",
+				"app/assets/javascripts/books/events/toolbox_photo.js.coffee"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"van",
+				"~/Copy/BTSync/_myself/app/vanilla8/vanilla8.sublime-project"
+			],
+			[
+				"pb",
+				"~/Copy/BTSync/_myself/www/pboooks/pboooks.sublime-project"
+			],
+			[
+				"",
+				"~/Copy/BTSync/_myself/app/kids-passport/kids-passport.sublime-project"
+			],
+			[
+				"m",
+				"~/BTSync/_myself/_sublime_projects/movielan.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
